@@ -1,4 +1,4 @@
-# How to add App to startup macos
+# How to Add Startup Apps on a Mac
 
 ![User & Groups](https://i.imgur.com/8L3eM6t.png)
 
