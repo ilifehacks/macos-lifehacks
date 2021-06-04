@@ -1,7 +1,7 @@
 ![](https://i.imgur.com/rg9O9Oy.png)
 
 # KeyCastr
-Keystroke visualizer, visualize any press keys and commands for  record video or gif
+Keystroke visualizer for video recording
 
 - ♻️ free 
 - 🌎 [open source](https://github.com/keycastr/keycastr)
